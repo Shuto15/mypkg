@@ -2,4 +2,4 @@
 
 ![test](https://github.com/Shuto15/mypkg/actions/workflows/test.yml/badge.svg)
 
-メディア工学特論講義練習用
+メディア工学特論講義ros2練習用
